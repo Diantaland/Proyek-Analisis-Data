@@ -13,9 +13,9 @@ For further information, like the background of this dataset, dataset characteri
 │   ├── day.csv
 |   └── hour.csv
 ├── Dashboard
-│   ├── dashboard.py
+│   ├── Fabike.png
+│   └── dashboard.py
 │   └── day.csv
-│   └── Fabike.png
 ├── Proyek_Analisis_Data.ipynb
 ├── README.md
 ├── proyek_analisis_data.py
