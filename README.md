@@ -58,7 +58,7 @@ For further information, like the background of this dataset, dataset characteri
 5. Connect to hosted runtime.
 6. Lastly, run the code cells.
 
-### `dashboard/dashboard.py`
+### `Dashboard/dashboard.py`
 
 1. Download this project.
 2. Install the Streamlit in your terminal or command prompt using `pip install streamlit`. Install another libraries like pandas, numpy, scipy, matplotlib, and seaborn if you haven't.
